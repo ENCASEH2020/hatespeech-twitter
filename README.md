@@ -9,9 +9,9 @@ _**Please cite the paper in any published work that uses any of these resources.
 >@inproceedings{founta2018large,   
   >&nbsp;&nbsp;&nbsp;&nbsp;title={Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior},   
   >&nbsp;&nbsp;&nbsp;&nbsp;author={Founta, Antigoni-Maria and Djouvas, Constantinos and Chatzakou, Despoina and Leontiadis, Ilias and Blackburn, Jeremy and Stringhini, Gianluca and Vakali, Athena and Sirivianos, Michael and Kourtellis, Nicolas},  
-  >&nbsp;&nbsp;&nbsp;&nbsp;booktitle={11th International Conference on Web and Social Media, ICWSM 2018},
-  >&nbsp;&nbsp;&nbsp;&nbsp;year={2018},
-  >&nbsp;&nbsp;&nbsp;&nbsp;organization={AAAI Press}
+  >&nbsp;&nbsp;&nbsp;&nbsp;booktitle={11th International Conference on Web and Social Media, ICWSM 2018},  
+  >&nbsp;&nbsp;&nbsp;&nbsp;year={2018},  
+  >&nbsp;&nbsp;&nbsp;&nbsp;organization={AAAI Press}  
 }
 
 For any further questions contact a.m.founta at gmail dot com.
