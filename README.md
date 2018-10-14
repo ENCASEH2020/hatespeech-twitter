@@ -2,12 +2,11 @@
 
 Repository for "Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior" paper, published in ICWSM 2018. Full text of the paper can be found [here](https://arxiv.org/pdf/1802.00393.pdf). All updates on this public dataset can be found in this repository.
 
-The dataset provided here includes an updated version of the original dataset, with ~100k tweets annotated using the CrowdFlower platform. 
-There are two CSV files: 
-* hatespeech_features.csv: contains ~100k rows of unique Tweet IDs, Tweet text and some of their according metadata as provided by Twitter
+The dataset provided here includes an updated version of the original dataset, with ~100k tweets annotated using the CrowdFlower platform: 
 * hatespeech_labels.csv: contains ~100k rows, where every row is consisted of a unique Tweet ID and its according majority annotation
 
-User IDs are not included in the features file, for anonymity of the authors.
+UPDATE: 
+It has come to our understanding that a number of the tweets are not available anymore for download on Twitter. Therefore, under request, we can provide one more file with the full 100k tweet text and their according majority labels. The tweets are shuffled so that there is no connection between tweet IDs and texts (in order to be aligned with the T&C of Twitter). To obtain the file contact the authors through email.
 
 _**Please cite the paper in any published work that uses any of these resources.**_
 
