@@ -6,7 +6,7 @@ The dataset provided here includes an updated version of the original dataset, w
 * hatespeech_labels.csv: contains ~100k rows, where every row is consisted of a unique Tweet ID and its according majority annotation
 
 UPDATE: 
-It has come to our understanding that a number of the tweets are not available anymore for download on Twitter. Therefore, under request, we can provide one more file with the full 100k tweet text and their according majority labels. The tweets are shuffled so that there is no connection between tweet IDs and texts (in order to be aligned with the T&C of Twitter). To obtain the file contact the authors through email.
+It has come to our understanding that a number of the tweets are not available anymore for download on Twitter. Therefore, under request, we can provide one more file with the full 100k tweet text and their associated majority labels. The tweets are shuffled so that there is no connection between tweet IDs and texts (in order to be aligned with the T&C of Twitter). To obtain the file contact the authors through email.
 
 _**Please cite the paper in any published work that uses any of these resources.**_
 
